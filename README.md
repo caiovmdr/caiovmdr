@@ -1,6 +1,6 @@
 ## Hey there 👕 👋
 # 💫 About Me:
-sociologist, postgraduate in criminology, education, MBA in process management, currently law student and co-founder of the national association of sociologists in Brazil. Passionate about technology, I am currently studying data science and product development. I have worked in technology mainly in the financial market at banks such as Santander, Itau and Nubank. Currently member of AIESEC ALUMNI INTERNATION
+sociologist, postgraduate in criminology, education, MBA in process management, currently co-founder of the national association of sociologists in Brazil. Passionate about technology, I am currently studying data science and product development. I have worked in technology mainly in the financial market at banks such as Santander, Itau and Nubank. Currently member of AIESEC ALUMNI INTERNATION
 
 
 # 💻 Tech Stack:
